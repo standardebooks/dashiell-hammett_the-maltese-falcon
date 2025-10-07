@@ -1,6 +1,18 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+q{
+	font-style: italic;
+}
+
+table{
+	margin: 1em auto;
+}
+
+table td:first-child{
+	text-align: right;
+}
+
 section[epub|type~="dedication"] p{
 	font-style: italic;
 }
