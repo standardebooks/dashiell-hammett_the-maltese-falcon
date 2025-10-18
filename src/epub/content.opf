@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dashiell-hammett/the-maltese-falcon</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:24Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,15 +48,23 @@
 		<meta id="collection-3" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">4</meta>
+		<meta id="collection-4" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-4">set</meta>
+		<meta property="group-position" refines="#collection-4">56</meta>
+		<meta id="collection-5" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-5">set</meta>
+		<meta property="group-position" refines="#collection-5">54</meta>
 		<dc:description id="description">A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Sam Spade and his partner Miles are private detectives in San Francisco. When the mysterious Miss Wonderly walks into their office begging them to trail a man who has run off with her sister, Sam finds himself embroiled in a complex web of violence, greed, and deceit, all revolving around a mysterious artifact—the titular Maltese Falcon.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Maltese Falcon&lt;/i&gt; is a jewel in the crown of the “hardboiled” crime genre, and one its best-known works. &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Hammett&lt;/a&gt; writes a tight and lean story in which no character, not even the hero or the police, can be said to be “good.”&lt;/p&gt;
+			&lt;p&gt;It was first serialzed in &lt;i&gt;Black Mask&lt;/i&gt; magazine in 1929, before undergoing edits for publication as a novel in 1930. The novel was adapted into several movies, including the 1941 film starring Humphrey Bogart, in which his portrayal of Spam Spade went on to become the core archetype for all film noir detectives to come.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20161221</dc:source>
 		<dc:source>https://archive.org/details/maltesefalcon01hamm</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">69655</meta>
+		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dashiell-hammett_the-maltese-falcon</meta>
 		<dc:creator id="author">Dashiell Hammett</dc:creator>
