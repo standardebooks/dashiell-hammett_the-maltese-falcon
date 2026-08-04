@@ -55,7 +55,7 @@
 		<meta id="collection-5" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-5">set</meta>
 		<meta property="group-position" refines="#collection-5">54</meta>
-		<dc:abstract>A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.</dc:abstract>
+		<meta property="schema:abstract">A detective becomes embroiled in a series of murders and intrigues, all seemingly related to a mysterious figurine.</meta>
 		<dc:description>
 			&lt;p&gt;Sam Spade and his partner Miles are private detectives in San Francisco. When the mysterious Miss Wonderly walks into their office begging them to trail a man who has run off with her sister, Sam finds himself embroiled in a complex web of violence, greed, and deceit, all revolving around a mysterious artifact—the titular Maltese Falcon.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Maltese Falcon&lt;/i&gt; is a jewel in the crown of the “hardboiled” crime genre, and one of its best-known works. &lt;a href="https://standardebooks.org/ebooks/dashiell-hammett"&gt;Hammett&lt;/a&gt; writes a tight and lean story in which no character, not even the hero or the police, can be said to be “good.”&lt;/p&gt;
